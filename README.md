@@ -1,8 +1,10 @@
 ## Olá! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Sou Letícia Lima, estou cursando Desenvolvimento de Sistemas. Tenho paixão por compartilhar conhecimentos em tecnologia, e resolver desafios tecnológicos.
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-leticia-lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-lima-/)](https://www.linkedin.com/in/-leticia-lima-/)
+Sou Letícia Lima, estou cursando Desenvolvimento de Sistemas. Tenho paixão por compartilhar conhecimentos em tecnologia, e resolver desafios tecnológicos.   
+
+[![Linkedin Badge](https://img.shields.io/badge/-leticia-lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-lima-/)](https://www.linkedin.com/in/-leticia-lima-/)
+
+---
 
 
  ## ⚡ Tecnologias que eu uso
