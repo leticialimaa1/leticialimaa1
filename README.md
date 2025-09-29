@@ -2,7 +2,7 @@
 
 Sou Letícia Lima, estou cursando Desenvolvimento de Sistemas. Tenho paixão por compartilhar conhecimentos em tecnologia, e resolver desafios tecnológicos.   
 
-[![Linkedin Badge](https://img.shields.io/badge/leticia-lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-lima-/)](https://www.linkedin.com/in/leticia-lima-/)
+[![Linkedin Badge](https://img.shields.io/badge/-leticia-lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/-leticia-lima-/)](https://www.linkedin.com/in/-leticia-lima-/)
 
 ---
 
